@@ -6,7 +6,7 @@ import { authService } from "../service/AuthService"
 
 // Use the actual API base URL instead of localhost
 
-const API_BASE_URL = "https://azurewebapiuserpos-hnazbtaufyeeevgh.eastus2-01.azurewebsites.net/api"
+const API_BASE_URL = "https://azurewebapi-posproduction-epb5fkdahze7e3hr.centralindia-01.azurewebsites.net/api"
 
 const API_KEY = "duWXstDiceN28uWJ504x+fBIrD6T/4ZUHn/wn49VKao="
 
